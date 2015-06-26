@@ -1,3 +1,3 @@
 # PythonSes
 
-Google Sunusu üzerinden text verisini ses dosyasına dönüştürür.
+Google Sunusu üzerinden   ses dosyasını text verisine dönüştürür.
